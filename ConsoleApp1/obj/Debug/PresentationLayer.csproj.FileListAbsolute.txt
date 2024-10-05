@@ -1,0 +1,12 @@
+D:\Programming 2024\C#\Bank System\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Programming 2024\C#\Bank System\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Programming 2024\C#\Bank System\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Programming 2024\C#\Bank System\ConsoleApp1\bin\Debug\BusinessLayer.dll
+D:\Programming 2024\C#\Bank System\ConsoleApp1\bin\Debug\DataLayer.dll
+D:\Programming 2024\C#\Bank System\ConsoleApp1\bin\Debug\BusinessLayer.pdb
+D:\Programming 2024\C#\Bank System\ConsoleApp1\bin\Debug\DataLayer.pdb
+D:\Programming 2024\C#\Bank System\ConsoleApp1\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+D:\Programming 2024\C#\Bank System\ConsoleApp1\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Programming 2024\C#\Bank System\ConsoleApp1\obj\Debug\Presenta.9C561136.Up2Date
+D:\Programming 2024\C#\Bank System\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Programming 2024\C#\Bank System\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

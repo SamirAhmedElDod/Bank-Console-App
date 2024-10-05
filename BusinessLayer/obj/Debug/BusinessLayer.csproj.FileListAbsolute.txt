@@ -1,0 +1,9 @@
+D:\Programming 2024\C#\Bank System\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Programming 2024\C#\Bank System\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Programming 2024\C#\Bank System\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Programming 2024\C#\Bank System\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Programming 2024\C#\Bank System\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Programming 2024\C#\Bank System\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Programming 2024\C#\Bank System\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\Programming 2024\C#\Bank System\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Programming 2024\C#\Bank System\BusinessLayer\obj\Debug\BusinessLayer.pdb

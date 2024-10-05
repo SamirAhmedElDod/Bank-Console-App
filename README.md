@@ -12,7 +12,9 @@ This project is a bank account management system that relies on an SQL Server da
 - **Withdraw Money**: Allows users to withdraw money, provided they have sufficient funds in the database.
 - **Transfer Between Accounts**: Enables transferring money between different accounts, with real-time balance updates in the database.
 - **Check Balance**: Retrieves the current account balance from the database and displays it to the user.
+- **Update Account**: Allows users to update their account information, such as username or password, and the changes are saved in the database.
 
+  
 - ## Database Details (SQL Server)
 
 - **Main Accounts Table**:

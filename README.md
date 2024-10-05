@@ -42,6 +42,7 @@ This project is a bank account management system that relies on an SQL Server da
 
 5. **Balance Inquiry**:
    - The program retrieves the user's current balance by executing an SQL query that fetches the balance from the accounts table based on the `AccountID`.
+     
 6. **Account Update**:
   - Users can update their account information, such as username or password. The system performs an `UPDATE` query to save the changes in the `accounts` table.
 

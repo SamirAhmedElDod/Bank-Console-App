@@ -15,7 +15,7 @@ This project is a bank account management system that relies on an SQL Server da
 - **Update Account**: Allows users to update their account information, such as username or password, and the changes are saved in the database.
 
   
-- ## Database Details (SQL Server)
+## Database Details (SQL Server)
 
 - **Main Accounts Table**:
   - `AccountID`: Account number (Primary Key).
@@ -23,7 +23,7 @@ This project is a bank account management system that relies on an SQL Server da
   - `Password`: Password (Encryption is recommended for future improvements).
   - `Balance`: Current balance.
  
-## Program Workflow
+ ## Program Workflow
 
 1. **Account Registration**:
    - When creating a new account, the system stores the account data in the accounts table in the database.

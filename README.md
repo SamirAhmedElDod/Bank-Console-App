@@ -46,9 +46,37 @@ This project is a bank account management system that relies on an SQL Server da
 6. **Account Update**:
     - Users can update their account information, such as username or password. The system performs an `UPDATE` query to save the changes in the `accounts` table.
 
+## Architecture
+
+This project follows the **3-Tier Architecture**:
+- **Data Layer**: Handles database interactions for storing and retrieving account data.
+- **Business Layer**: Implements the core banking logic, including account operations and validation.
+- **Presentation Layer**: Provides a console-based interface for user interaction.
+
     
 ## Additional Details
 
 - **Programming Language**: C# 
 - **Database**: Microsoft SQL Server.
 - **User Interface**: Console Application
+
+## App Images
+![Main Project Image](https://raw.githubusercontent.com/SamirAhmedElDod/Bank-Console-App/master/Assets%20For%20Readme/Bank.png)
+
+___
+
+![Main Project Image](https://raw.githubusercontent.com/SamirAhmedElDod/Bank-Console-App/master/Assets%20For%20Readme/bank2.png)
+___
+
+![Main Project Image](https://raw.githubusercontent.com/SamirAhmedElDod/Bank-Console-App/master/Assets%20For%20Readme/Bank5.png)
+
+___
+
+![Main Project Image](https://raw.githubusercontent.com/SamirAhmedElDod/Bank-Console-App/master/Assets%20For%20Readme/Bank3.png)
+
+___
+
+![Main Project Image](https://raw.githubusercontent.com/SamirAhmedElDod/Bank-Console-App/master/Assets%20For%20Readme/Bank4.png)
+
+
+
